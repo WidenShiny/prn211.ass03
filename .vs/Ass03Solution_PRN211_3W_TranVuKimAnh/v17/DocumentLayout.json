@@ -1,0 +1,300 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\FULearning\\Spring2024\\PRN211\\Assignment3\\Ass03Solution_PRN211_3W_TranVuKimAnh-main\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D9BB2AB0-2089-4B10-90CC-CB0AF92210D7}|eStore\\eStore.csproj|D:\\FULearning\\Spring2024\\PRN211\\Assignment3\\Ass03Solution_PRN211_3W_TranVuKimAnh-main\\estore\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D9BB2AB0-2089-4B10-90CC-CB0AF92210D7}|eStore\\eStore.csproj|solutionrelative:estore\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9BB2AB0-2089-4B10-90CC-CB0AF92210D7}|eStore\\eStore.csproj|d:\\fulearning\\spring2024\\prn211\\assignment3\\ass03solution_prn211_3w_tranvukimanh-main\\estore\\controllers\\memberscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9BB2AB0-2089-4B10-90CC-CB0AF92210D7}|eStore\\eStore.csproj|solutionrelative:estore\\controllers\\memberscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6005EC92-82CF-4A7F-8991-BBB627206E78}|BusinessObject\\BusinessObject.csproj|d:\\fulearning\\spring2024\\prn211\\assignment3\\ass03solution_prn211_3w_tranvukimanh-main\\businessobject\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6005EC92-82CF-4A7F-8991-BBB627206E78}|BusinessObject\\BusinessObject.csproj|solutionrelative:businessobject\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11DEA276-3511-476F-BB00-D7E2B21E26D3}|DataAccess\\DataAccess.csproj|D:\\FULearning\\Spring2024\\PRN211\\Assignment3\\Ass03Solution_PRN211_3W_TranVuKimAnh-main\\dataaccess\\categorydao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11DEA276-3511-476F-BB00-D7E2B21E26D3}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\categorydao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6005EC92-82CF-4A7F-8991-BBB627206E78}|BusinessObject\\BusinessObject.csproj|d:\\fulearning\\spring2024\\prn211\\assignment3\\ass03solution_prn211_3w_tranvukimanh-main\\businessobject\\salereport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6005EC92-82CF-4A7F-8991-BBB627206E78}|BusinessObject\\BusinessObject.csproj|solutionrelative:businessobject\\salereport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6005EC92-82CF-4A7F-8991-BBB627206E78}|BusinessObject\\BusinessObject.csproj|d:\\fulearning\\spring2024\\prn211\\assignment3\\ass03solution_prn211_3w_tranvukimanh-main\\businessobject\\productforreport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6005EC92-82CF-4A7F-8991-BBB627206E78}|BusinessObject\\BusinessObject.csproj|solutionrelative:businessobject\\productforreport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6005EC92-82CF-4A7F-8991-BBB627206E78}|BusinessObject\\BusinessObject.csproj|D:\\FULearning\\Spring2024\\PRN211\\Assignment3\\Ass03Solution_PRN211_3W_TranVuKimAnh-main\\businessobject\\models\\assignmentprn211dbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6005EC92-82CF-4A7F-8991-BBB627206E78}|BusinessObject\\BusinessObject.csproj|solutionrelative:businessobject\\models\\assignmentprn211dbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6005EC92-82CF-4A7F-8991-BBB627206E78}|BusinessObject\\BusinessObject.csproj|d:\\fulearning\\spring2024\\prn211\\assignment3\\ass03solution_prn211_3w_tranvukimanh-main\\businessobject\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6005EC92-82CF-4A7F-8991-BBB627206E78}|BusinessObject\\BusinessObject.csproj|solutionrelative:businessobject\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9BB2AB0-2089-4B10-90CC-CB0AF92210D7}|eStore\\eStore.csproj|D:\\FULearning\\Spring2024\\PRN211\\Assignment3\\Ass03Solution_PRN211_3W_TranVuKimAnh-main\\estore\\views\\orders\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D9BB2AB0-2089-4B10-90CC-CB0AF92210D7}|eStore\\eStore.csproj|solutionrelative:estore\\views\\orders\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9BB2AB0-2089-4B10-90CC-CB0AF92210D7}|eStore\\eStore.csproj|D:\\FULearning\\Spring2024\\PRN211\\Assignment3\\Ass03Solution_PRN211_3W_TranVuKimAnh-main\\estore\\views\\members\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D9BB2AB0-2089-4B10-90CC-CB0AF92210D7}|eStore\\eStore.csproj|solutionrelative:estore\\views\\members\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11DEA276-3511-476F-BB00-D7E2B21E26D3}|DataAccess\\DataAccess.csproj|D:\\FULearning\\Spring2024\\PRN211\\Assignment3\\Ass03Solution_PRN211_3W_TranVuKimAnh-main\\dataaccess\\orderdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11DEA276-3511-476F-BB00-D7E2B21E26D3}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\orderdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11DEA276-3511-476F-BB00-D7E2B21E26D3}|DataAccess\\DataAccess.csproj|D:\\FULearning\\Spring2024\\PRN211\\Assignment3\\Ass03Solution_PRN211_3W_TranVuKimAnh-main\\dataaccess\\orderdetaildao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11DEA276-3511-476F-BB00-D7E2B21E26D3}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\orderdetaildao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9BB2AB0-2089-4B10-90CC-CB0AF92210D7}|eStore\\eStore.csproj|D:\\FULearning\\Spring2024\\PRN211\\Assignment3\\Ass03Solution_PRN211_3W_TranVuKimAnh-main\\estore\\views\\cart\\cart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D9BB2AB0-2089-4B10-90CC-CB0AF92210D7}|eStore\\eStore.csproj|solutionrelative:estore\\views\\cart\\cart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9BB2AB0-2089-4B10-90CC-CB0AF92210D7}|eStore\\eStore.csproj|D:\\FULearning\\Spring2024\\PRN211\\Assignment3\\Ass03Solution_PRN211_3W_TranVuKimAnh-main\\estore\\views\\products\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D9BB2AB0-2089-4B10-90CC-CB0AF92210D7}|eStore\\eStore.csproj|solutionrelative:estore\\views\\products\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9BB2AB0-2089-4B10-90CC-CB0AF92210D7}|eStore\\eStore.csproj|D:\\FULearning\\Spring2024\\PRN211\\Assignment3\\Ass03Solution_PRN211_3W_TranVuKimAnh-main\\estore\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D9BB2AB0-2089-4B10-90CC-CB0AF92210D7}|eStore\\eStore.csproj|solutionrelative:estore\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9BB2AB0-2089-4B10-90CC-CB0AF92210D7}|eStore\\eStore.csproj|D:\\FULearning\\Spring2024\\PRN211\\Assignment3\\Ass03Solution_PRN211_3W_TranVuKimAnh-main\\estore\\views\\orders\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D9BB2AB0-2089-4B10-90CC-CB0AF92210D7}|eStore\\eStore.csproj|solutionrelative:estore\\views\\orders\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9BB2AB0-2089-4B10-90CC-CB0AF92210D7}|eStore\\eStore.csproj|D:\\FULearning\\Spring2024\\PRN211\\Assignment3\\Ass03Solution_PRN211_3W_TranVuKimAnh-main\\estore\\views\\orders\\getsalereport.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D9BB2AB0-2089-4B10-90CC-CB0AF92210D7}|eStore\\eStore.csproj|solutionrelative:estore\\views\\orders\\getsalereport.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MembersController.cs",
+              "DocumentMoniker": "D:\\FULearning\\Spring2024\\PRN211\\Assignment3\\Ass03Solution_PRN211_3W_TranVuKimAnh-main\\eStore\\Controllers\\MembersController.cs",
+              "RelativeDocumentMoniker": "eStore\\Controllers\\MembersController.cs",
+              "ToolTip": "D:\\FULearning\\Spring2024\\PRN211\\Assignment3\\Ass03Solution_PRN211_3W_TranVuKimAnh-main\\eStore\\Controllers\\MembersController.cs",
+              "RelativeToolTip": "eStore\\Controllers\\MembersController.cs",
+              "ViewState": "AQIAAHgAAAAAAAAAAAAmwIMAAABaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-13T01:21:31.139Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\FULearning\\Spring2024\\PRN211\\Assignment3\\Ass03Solution_PRN211_3W_TranVuKimAnh-main\\eStore\\appsettings.json",
+              "RelativeDocumentMoniker": "eStore\\appsettings.json",
+              "ToolTip": "D:\\FULearning\\Spring2024\\PRN211\\Assignment3\\Ass03Solution_PRN211_3W_TranVuKimAnh-main\\eStore\\appsettings.json",
+              "RelativeToolTip": "eStore\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-03-12T15:21:47.575Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SaleReport.cs",
+              "DocumentMoniker": "D:\\FULearning\\Spring2024\\PRN211\\Assignment3\\Ass03Solution_PRN211_3W_TranVuKimAnh-main\\BusinessObject\\SaleReport.cs",
+              "RelativeDocumentMoniker": "BusinessObject\\SaleReport.cs",
+              "ToolTip": "D:\\FULearning\\Spring2024\\PRN211\\Assignment3\\Ass03Solution_PRN211_3W_TranVuKimAnh-main\\BusinessObject\\SaleReport.cs",
+              "RelativeToolTip": "BusinessObject\\SaleReport.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-13T01:21:01.238Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ProductForReport.cs",
+              "DocumentMoniker": "D:\\FULearning\\Spring2024\\PRN211\\Assignment3\\Ass03Solution_PRN211_3W_TranVuKimAnh-main\\BusinessObject\\ProductForReport.cs",
+              "RelativeDocumentMoniker": "BusinessObject\\ProductForReport.cs",
+              "ToolTip": "D:\\FULearning\\Spring2024\\PRN211\\Assignment3\\Ass03Solution_PRN211_3W_TranVuKimAnh-main\\BusinessObject\\ProductForReport.cs",
+              "RelativeToolTip": "BusinessObject\\ProductForReport.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-13T01:20:54.63Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Admin.cs",
+              "DocumentMoniker": "D:\\FULearning\\Spring2024\\PRN211\\Assignment3\\Ass03Solution_PRN211_3W_TranVuKimAnh-main\\BusinessObject\\Admin.cs",
+              "RelativeDocumentMoniker": "BusinessObject\\Admin.cs",
+              "ToolTip": "D:\\FULearning\\Spring2024\\PRN211\\Assignment3\\Ass03Solution_PRN211_3W_TranVuKimAnh-main\\BusinessObject\\Admin.cs",
+              "RelativeToolTip": "BusinessObject\\Admin.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-13T01:20:49.463Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Category.cs",
+              "DocumentMoniker": "D:\\FULearning\\Spring2024\\PRN211\\Assignment3\\Ass03Solution_PRN211_3W_TranVuKimAnh-main\\BusinessObject\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "BusinessObject\\Models\\Category.cs",
+              "ToolTip": "D:\\FULearning\\Spring2024\\PRN211\\Assignment3\\Ass03Solution_PRN211_3W_TranVuKimAnh-main\\BusinessObject\\Models\\Category.cs",
+              "RelativeToolTip": "BusinessObject\\Models\\Category.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-12T15:59:04.136Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CategoryDAO.cs",
+              "DocumentMoniker": "D:\\FULearning\\Spring2024\\PRN211\\Assignment3\\Ass03Solution_PRN211_3W_TranVuKimAnh-main\\DataAccess\\CategoryDAO.cs",
+              "RelativeDocumentMoniker": "DataAccess\\CategoryDAO.cs",
+              "ToolTip": "D:\\FULearning\\Spring2024\\PRN211\\Assignment3\\Ass03Solution_PRN211_3W_TranVuKimAnh-main\\DataAccess\\CategoryDAO.cs",
+              "RelativeToolTip": "DataAccess\\CategoryDAO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-12T15:58:52.704Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AssignmentPRN211DBContext.cs",
+              "DocumentMoniker": "D:\\FULearning\\Spring2024\\PRN211\\Assignment3\\Ass03Solution_PRN211_3W_TranVuKimAnh-main\\BusinessObject\\Models\\AssignmentPRN211DBContext.cs",
+              "RelativeDocumentMoniker": "BusinessObject\\Models\\AssignmentPRN211DBContext.cs",
+              "ToolTip": "D:\\FULearning\\Spring2024\\PRN211\\Assignment3\\Ass03Solution_PRN211_3W_TranVuKimAnh-main\\BusinessObject\\Models\\AssignmentPRN211DBContext.cs",
+              "RelativeToolTip": "BusinessObject\\Models\\AssignmentPRN211DBContext.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAA0wB4AAABmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-12T15:25:15.279Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "OrderDAO.cs",
+              "DocumentMoniker": "D:\\FULearning\\Spring2024\\PRN211\\Assignment3\\Ass03Solution_PRN211_3W_TranVuKimAnh-main\\DataAccess\\OrderDAO.cs",
+              "RelativeDocumentMoniker": "DataAccess\\OrderDAO.cs",
+              "ToolTip": "D:\\FULearning\\Spring2024\\PRN211\\Assignment3\\Ass03Solution_PRN211_3W_TranVuKimAnh-main\\DataAccess\\OrderDAO.cs",
+              "RelativeToolTip": "DataAccess\\OrderDAO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-12T15:20:31.336Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "OrderDetailDAO.cs",
+              "DocumentMoniker": "D:\\FULearning\\Spring2024\\PRN211\\Assignment3\\Ass03Solution_PRN211_3W_TranVuKimAnh-main\\DataAccess\\OrderDetailDAO.cs",
+              "RelativeDocumentMoniker": "DataAccess\\OrderDetailDAO.cs",
+              "ToolTip": "D:\\FULearning\\Spring2024\\PRN211\\Assignment3\\Ass03Solution_PRN211_3W_TranVuKimAnh-main\\DataAccess\\OrderDetailDAO.cs",
+              "RelativeToolTip": "DataAccess\\OrderDetailDAO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-12T15:20:31.384Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "cart.cshtml",
+              "DocumentMoniker": "D:\\FULearning\\Spring2024\\PRN211\\Assignment3\\Ass03Solution_PRN211_3W_TranVuKimAnh-main\\eStore\\Views\\Cart\\cart.cshtml",
+              "RelativeDocumentMoniker": "eStore\\Views\\Cart\\cart.cshtml",
+              "ToolTip": "D:\\FULearning\\Spring2024\\PRN211\\Assignment3\\Ass03Solution_PRN211_3W_TranVuKimAnh-main\\eStore\\Views\\Cart\\cart.cshtml",
+              "RelativeToolTip": "eStore\\Views\\Cart\\cart.cshtml",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAAE8AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-12T15:20:31.385Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\FULearning\\Spring2024\\PRN211\\Assignment3\\Ass03Solution_PRN211_3W_TranVuKimAnh-main\\eStore\\Views\\Products\\Index.cshtml",
+              "RelativeDocumentMoniker": "eStore\\Views\\Products\\Index.cshtml",
+              "ToolTip": "D:\\FULearning\\Spring2024\\PRN211\\Assignment3\\Ass03Solution_PRN211_3W_TranVuKimAnh-main\\eStore\\Views\\Products\\Index.cshtml",
+              "RelativeToolTip": "eStore\\Views\\Products\\Index.cshtml",
+              "ViewState": "AQIAACoAAAAAAAAAAAAAAEoAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-12T15:20:31.385Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\FULearning\\Spring2024\\PRN211\\Assignment3\\Ass03Solution_PRN211_3W_TranVuKimAnh-main\\eStore\\Views\\Members\\Index.cshtml",
+              "RelativeDocumentMoniker": "eStore\\Views\\Members\\Index.cshtml",
+              "ToolTip": "D:\\FULearning\\Spring2024\\PRN211\\Assignment3\\Ass03Solution_PRN211_3W_TranVuKimAnh-main\\eStore\\Views\\Members\\Index.cshtml",
+              "RelativeToolTip": "eStore\\Views\\Members\\Index.cshtml",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAADwAAABEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-12T15:20:31.386Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "D:\\FULearning\\Spring2024\\PRN211\\Assignment3\\Ass03Solution_PRN211_3W_TranVuKimAnh-main\\eStore\\Views\\Shared\\Error.cshtml",
+              "RelativeDocumentMoniker": "eStore\\Views\\Shared\\Error.cshtml",
+              "ToolTip": "D:\\FULearning\\Spring2024\\PRN211\\Assignment3\\Ass03Solution_PRN211_3W_TranVuKimAnh-main\\eStore\\Views\\Shared\\Error.cshtml",
+              "RelativeToolTip": "eStore\\Views\\Shared\\Error.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-12T15:20:31.386Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\FULearning\\Spring2024\\PRN211\\Assignment3\\Ass03Solution_PRN211_3W_TranVuKimAnh-main\\eStore\\Views\\Orders\\Index.cshtml",
+              "RelativeDocumentMoniker": "eStore\\Views\\Orders\\Index.cshtml",
+              "ToolTip": "D:\\FULearning\\Spring2024\\PRN211\\Assignment3\\Ass03Solution_PRN211_3W_TranVuKimAnh-main\\eStore\\Views\\Orders\\Index.cshtml",
+              "RelativeToolTip": "eStore\\Views\\Orders\\Index.cshtml",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAACkAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-12T15:20:31.827Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "D:\\FULearning\\Spring2024\\PRN211\\Assignment3\\Ass03Solution_PRN211_3W_TranVuKimAnh-main\\eStore\\Views\\Orders\\Details.cshtml",
+              "RelativeDocumentMoniker": "eStore\\Views\\Orders\\Details.cshtml",
+              "ToolTip": "D:\\FULearning\\Spring2024\\PRN211\\Assignment3\\Ass03Solution_PRN211_3W_TranVuKimAnh-main\\eStore\\Views\\Orders\\Details.cshtml",
+              "RelativeToolTip": "eStore\\Views\\Orders\\Details.cshtml",
+              "ViewState": "AQIAABsAAAAAAAAAAAAAAAQAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-12T15:20:32.185Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "GetSaleReport.cshtml",
+              "DocumentMoniker": "D:\\FULearning\\Spring2024\\PRN211\\Assignment3\\Ass03Solution_PRN211_3W_TranVuKimAnh-main\\eStore\\Views\\Orders\\GetSaleReport.cshtml",
+              "RelativeDocumentMoniker": "eStore\\Views\\Orders\\GetSaleReport.cshtml",
+              "ToolTip": "D:\\FULearning\\Spring2024\\PRN211\\Assignment3\\Ass03Solution_PRN211_3W_TranVuKimAnh-main\\eStore\\Views\\Orders\\GetSaleReport.cshtml",
+              "RelativeToolTip": "eStore\\Views\\Orders\\GetSaleReport.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-12T15:20:32.186Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
